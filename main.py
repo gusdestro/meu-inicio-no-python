@@ -1,4 +1,4 @@
-nome = 'Gustavo Destro' # string
+nome = 'Gustavo' # string
 mensagem = 'Bom dia, tudo bem?' # string
 idade = 28 # integer
 altura = 1.81 # float
